@@ -1,0 +1,25 @@
+html에서 사용되는 태그는 중에 빈도수가 많은 태그를 배워놓고 나머지 태그들은 필요할때 찾아서 사용해라
+
+속성
+
+부모태그
+    자식태그
+
+문서의구조
+<DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+</body>
+</html>
+
+팀버너스리
+
+client request
+server response
+
+web hosting host를 빌려주는 곳
+github에서 만들어보기
+
+web server
